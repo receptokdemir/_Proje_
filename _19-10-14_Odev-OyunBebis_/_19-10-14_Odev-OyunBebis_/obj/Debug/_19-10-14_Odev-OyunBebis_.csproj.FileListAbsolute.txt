@@ -1,0 +1,18 @@
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.exe.config
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.exe
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.pdb
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.csprojResolveAssemblyReference.cache
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19_10_14_Odev_OyunBebis_.Form1.resources
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19_10_14_Odev_OyunBebis_.Properties.Resources.resources
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.csproj.GenerateResource.Cache
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.exe
+c:\users\cenkhan\documents\visual studio 2013\Projects\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.pdb
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.exe.config
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.exe
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.pdb
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.exe
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\bin\Debug\_19-10-14_Odev-OyunBebis_.pdb
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.csprojResolveAssemblyReference.cache
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19_10_14_Odev_OyunBebis_.Form1.resources
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19_10_14_Odev_OyunBebis_.Properties.Resources.resources
+C:\Users\TKDMR\Desktop\vs\ekim\19.10.2014\_19-10-14_Odev-OyunBebis_\_19-10-14_Odev-OyunBebis_\obj\Debug\_19-10-14_Odev-OyunBebis_.csproj.GenerateResource.Cache
